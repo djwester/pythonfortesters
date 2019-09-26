@@ -1,0 +1,1 @@
+# parse through the logfile.txt data and compare the average time taken for users with Firefox to users with Chrome
