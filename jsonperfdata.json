@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "status": "success",
+        "numberOfResults": 7,
+        "resolution": "hour",
+        "startPeriod": "2014-09-01T18:00:00Z",
+        "endPeriod": "2014-09-02T19:00:00Z"
+    },
+    "data": [
+        {
+            "averageResolve": 2.53,
+            "averageConnect": 83.73,
+            "averageTransfer": 415.84,
+            "averageClosing": 480.71,
+            "averageTotal": 982.83,
+            "startPeriod": "2014-09-02T18:00:00Z",
+            "endPeriod": "2014-09-02T19:00:00Z"
+        },
+        {
+            "averageResolve": 2.46,
+            "averageConnect": 85.81,
+            "averageTransfer": 399.07,
+            "averageClosing": 462.27,
+            "averageTotal": 949.62,
+            "startPeriod": "2014-09-02T17:00:00Z",
+            "endPeriod": "2014-09-02T18:00:00Z"
+        },
+        {
+            "averageResolve": 2.66,
+            "averageConnect": 84.81,
+            "averageTransfer": 399.27,
+            "averageClosing": 464.37,
+            "averageTotal": 959.82,
+            "startPeriod": "2014-09-02T16:00:00Z",
+            "endPeriod": "2014-09-02T17:00:00Z"
+        },
+        {
+            "averageResolve": 2.96,
+            "averageConnect": 87.81,
+            "averageTransfer": 397.77,
+            "averageClosing": 466.26,
+            "averageTotal": 955.65,
+            "startPeriod": "2014-09-02T15:00:00Z",
+            "endPeriod": "2014-09-02T16:00:00Z"
+        },
+        {
+            "averageResolve": 3.00,
+            "averageConnect": 84.89,
+            "averageTransfer": 398.97,
+            "averageClosing": 461.17,
+            "averageTotal": 947.82,
+            "startPeriod": "2014-09-02T14:00:00Z",
+            "endPeriod": "2014-09-02T15:00:00Z"
+        },
+        {
+            "averageResolve": 2.99,
+            "averageConnect": 85.80,
+            "averageTransfer": 389.08,
+            "averageClosing": 458.29,
+            "averageTotal": 955.63,
+            "startPeriod": "2014-09-02T13:00:00Z",
+            "endPeriod": "2014-09-02T14:00:00Z"
+        },
+        {
+            "averageResolve": 2.73,
+            "averageConnect": 84.99,
+            "averageTransfer": 399.99,
+            "averageClosing": 463.22,
+            "averageTotal": 948.69,
+            "startPeriod": "2014-09-02T12:00:00Z",
+            "endPeriod": "2014-09-02T13:00:00Z"
+        }
+    ]
+}
