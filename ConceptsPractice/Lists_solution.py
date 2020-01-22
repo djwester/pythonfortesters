@@ -21,3 +21,9 @@ print(sum(list3))
 
 #what number is at index -1 in list3?
 print(list3[-1])
+
+#Further learning resources:
+# https://www.programiz.com/python-programming/list
+# https://www.tutorialspoint.com/python/python_lists.htm
+# https://www.w3schools.com/python/python_tuples.asp
+# https://www.tutorialspoint.com/python/python_tuples.htm
